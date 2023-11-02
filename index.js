@@ -8,3 +8,4 @@ const element = React.createElement("h1", {}, "Hello World");
 const root = document.querySelector("#react-root");
 //Creates the root and renders the passed React element to the screen
 createRoot(root).render(element);
+
